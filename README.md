@@ -13,7 +13,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Clipboard landing page](https://sasanqc.github.io/clipboard-landing-page/)
 
 ## My process
